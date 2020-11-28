@@ -1,27 +1,31 @@
-<h1 align= "center"><b>Hey there🙋‍♂️, I am Akshay</b></h1>
-<p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
-<h2 align= "center"><b>I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!</b></h2>
+<h3 align="left">
+ <abc>
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+  <br>👋 Hi, I'm Akshay 👨🏻‍💻.<br>
+  <br> I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍! <br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ </abc>
+</h3> 
+
+   ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Google%20Cloud-%7C-orange) ![](https://img.shields.io/badge/Azure-%7C-blue)
+   ![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow)  ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)
 
 
-<!--
-**akshkshay/akshkshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" /> </p>
-
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 
 
 
 
-- :telescope: I did B.Eng in CSE 💻;
-- :hourglass_flowing_sand: Learning ML and DL;
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
-- :man_technologist: B.Eng(Computer Science and Engineering), VTU; 
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
-- 📫 How to reach me: toakshayon@gmail.com;
+### Summary👋
+- 🔭 I’m currently working on Deep Learning projects.
+- 👨🏼‍💻 Skilled in Data visualization and deriving conclusions.
+- 👯 I’m looking to collaborate on anything related to ML, DL projects.
+- 💬 Open to questions about Machine Learning and projects I've worked on.
+- 📫 How to reach me:  [Email](mailto:toakshayon@gmail.com)
+- 😄 Pronouns: Software engineer, Machine Learning engineer and Data analyst.
 
 
 
