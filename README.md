@@ -1,7 +1,7 @@
 <h3 align="left">
  <abc>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1500425901/2646/allo-happy.gif?1500425901" width="30"/> Hey, nice to see you.</h1>
-  <br>👋 Hi, I'm Akshay 👨🏻‍💻.<br>
+  <br><img src="https://emojis.slackmojis.com/emojis/images/1572027885/6950/blob_wave.png?1572027885" width="30"/> Hi, I'm Akshay 👨🏻‍💻.<br>
   <br> I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍! <br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
