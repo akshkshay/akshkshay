@@ -20,12 +20,12 @@
 
 
 ### Summary👋
-- 🔭 I’m currently working on Deep Learning projects.
+- 🔭 I’m currently working on Deep Learning projects. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👨🏼‍💻 Skilled in Data visualization and deriving conclusions.
 - 👯 I’m looking to collaborate on anything related to ML, DL projects.
 - 💬 Open to questions about Machine Learning and projects I've worked on.
 - 📫 How to reach me:  [Email](mailto:toakshayon@gmail.com)
-- 😄 Pronouns: He / Him
+- 😄 Pronouns: He/Him
 
 
 
