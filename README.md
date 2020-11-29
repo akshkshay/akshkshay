@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate on anything related to ML, DL projects.
 - 💬 Open to questions about Machine Learning and projects I've worked on.
 - 📫 How to reach me:  [Email](mailto:toakshayon@gmail.com)
-- 😄 Pronouns: Software engineer, Machine Learning engineer and Data analyst.
+- 😄 Pronouns: He / Him
 
 
 
